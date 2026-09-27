@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there , Myself Shivang Khandelwal. I am studying Electrical Engineering at IIT Jammu.
 
 <!--
 **Shivang729/Shivang729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
